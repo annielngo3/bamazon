@@ -1,5 +1,5 @@
 # bamazon
-To access the page, CLICK HERE("https://annielngo3.github.io/bamazon/")
+#### Access page [HERE]("https://annielngo3.github.io/bamazon/")
 
 With Bamazon, users have the luxury of shopping for anything from their home and in their pjs. 
 
